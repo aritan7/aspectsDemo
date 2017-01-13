@@ -1,6 +1,6 @@
 import json
 from django.shortcuts import render
-import os, dill
+import os
 from djangoMiniProject import settings
 
 
