@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="69b330e6-573b-465a-bca1-d34a21e2b48b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mini/templates/mini/post_list.html" afterPath="$PROJECT_DIR$/mini/templates/mini/post_list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/data_20170116.json" afterPath="$PROJECT_DIR$/static/data_20170116.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -79,8 +80,8 @@
       <file leaf-file-name="post_list.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mini/templates/mini/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="24" column="33" lean-forward="false" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+            <state relative-caret-position="88">
+              <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -825,8 +826,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mini/templates/mini/post_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="24" column="33" lean-forward="false" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        <state relative-caret-position="88">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
           <folding />
         </state>
       </provider>
