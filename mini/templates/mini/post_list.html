@@ -14,14 +14,14 @@
     <p>Laptop dataset.</p>
     <table class="table table-bordered table-hover table-responsive">
         <th>Sentence</th>
-        <th>Part of Speech</th>
+{#        <th>Part of Speech</th>#}
         <th>Explicit Aspects</th>
         <th>Implicit Aspects</th>
 
         {% for item in data.results %}
             <tr>
                 <td>{{ forloop.counter }}. {{ item.sentence }}</td>
-                <td>{{ item.pos }}</td>
+{#                <td>{{ item.pos }}</td>#}
                 <td>{{ item.explicit_pretty }}</td>
                 <td>{{ item.implicit_pretty }}</td>
 
