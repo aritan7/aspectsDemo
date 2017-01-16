@@ -5,7 +5,7 @@ from djangoMiniProject import settings
 
 
 def post_list(request):
-    json_path = os.path.join(settings.STATIC_ROOT, 'data_20170113.json')
+    json_path = os.path.join(settings.STATIC_ROOT, 'data_20170116.json')
     with open(json_path, 'r') as fp:
         data = json.load(fp)
 
